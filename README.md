@@ -52,7 +52,7 @@ This project is a functional webpage demonstrating key JavaScript concepts:
 
 ## 👤 Author
 
-Created by [Your Name]
+Created by Meshack Kigen
 
 ## 📜 License
 
